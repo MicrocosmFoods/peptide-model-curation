@@ -1,0 +1,70 @@
+id,sequence,Y,index,idpeptide,bioactivity
+252,EMFTILEEYFMYRGLLGLRIRRRRRRRRR,1,,,
+356,FERTGNLI,0,7487.0,214717.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+248,KECCYV,1,,,
+305,FESTGPLI,0,7542.0,214772.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+622,KRP,1,,,
+87,HGHGVHG,1,,,
+18,AKLKAYPLKAKLYP,0,1606.0,20437.0,Antibacterial/antibiotic;Antifungal;Antimicrobial;Therapeutic;Toxic;idpeptide
+209,SFKLILAEY,1,,,
+761,VDPP,1,,,
+477,VQLRIRVRVIRK,0,1739.0,20925.0,Anti gram(+);Anti gram(-);Antibacterial/antibiotic;Antifungal;Antimicrobial;Therapeutic;idpeptide
+642,VSGHGQHGVH,1,,,
+743,RIVPP,1,,,
+144,AIVKLTVYDCIRRRRRRRRR,1,,,
+192,RCICTLGIC,0,4817.0,188362.0,Antimicrobial;Therapeutic;idpeptide
+200,RRAWWKAWWARRK,1,,,
+67,VNLKNLLR,0,4537.0,177388.0,Signal peptide;idpeptide
+389,AKRIVQRIKDFLRGARLFDKIRQVIRKG,0,2636.0,175819.0,Antimicrobial;Therapeutic;idpeptide
+250,SIPCGESCVYIPCLTTIVGCSCKNSVCYSN,1,,,
+260,FAVGLRAIKRALKKLRRGVRKVAKDL,0,250.0,3924.0,Anticancer;Antimicrobial;Antiviral;Therapeutic;idpeptide
+531,KRFRIRVRVIRK,1,,,
+174,SGHGQHGV,1,,,
+34,CLALNMSYC,0,2021.0,42219.0,Antimicrobial;Antiviral;Therapeutic;idpeptide
+366,VTDFYF,1,,,
+441,SVNVPL,0,3609.0,160466.0,Antioxidant;Bioactive;Cell sensing;Sensorial;Therapeutic;idpeptide
+368,WRSMAAAAA,0,7389.0,214451.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+86,ETPGIRYQY,0,8674.0,219000.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+244,KRIMKLKMR,1,,,
+265,IRVP,1,,,
+377,MPITNDQKKLMSNNVQI,0,2341.0,41574.0,Antimicrobial;Antiviral;Therapeutic;idpeptide
+661,HCQRPR,1,,,
+445,QRRQRKSRRTI,1,,,
+257,IKPR,1,,,
+546,YFLLKL,0,2145.0,52825.0,Anti hiv;Antimicrobial;Antiviral;Therapeutic;idpeptide
+625,ANASAAAAY,0,6528.0,212098.0,Immunological activity;Mhc binding and non-binding;Molecule binding;Peptide binding;Signal peptide;idpeptide
+471,PTHKAW,0,624.0,5733.0,Antihypertensive;Metabolic;Therapeutic;idpeptide
+765,RTCVKRVAMRGIIRKRCR,1,,,
+699,RERSKGSKYLYVG,0,168.0,1525.0,Anti gram(+);Anti gram(-);Antibacterial/antibiotic;Antimicrobial;Therapeutic;idpeptide
+849,GIPCGESCVFIPCITGAIGCSCKSKVCYRN,1,,,
+776,RAAFKWAWAWWRRK,1,,,
+618,RRWNWWWNWRR,0,5966.0,176242.0,Antimicrobial;Therapeutic;idpeptide
+701,PQASGVYMG,0,9227.0,219950.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+593,KWKSFLRTFKSPVRTVFHTALKPISS,1,,,
+313,MIIYRDLIS,0,3985.0,169764.0,Cell-penetrating;Drug delivery vehicle;Therapeutic;idpeptide
+182,QERPPLQQPPHRDKKPCKNFFWKTFSSCK,0,3835.0,225430.0,Cell sensing;Cell-cell communication;Hormone;Metabolic;Neurological activity;Neuropeptide;Sensorial;Therapeutic;idpeptide
+3,RKQDK,1,,,
+627,RRKKAAVALLKAVLLAALAP,0,2167.0,42048.0,Antimicrobial;Antiviral;Therapeutic;idpeptide
+117,GYPMYPLPR,1,,,
+243,SPRVCIRVCRNGVCYRRCWG,0,4508.0,177276.0,Signal peptide;idpeptide
+568,KTKKFAKMLMMALKKVVSTAKPLAILS,1,,,
+89,MWRGLNTVR,0,7793.0,215951.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+114,GRFRRLRKKTRKRLKKIGKVLKWI,0,1261.0,20973.0,Antimicrobial;Therapeutic;idpeptide
+682,RQPIPKARQPEGRA,0,9568.0,213442.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+54,WPQQQPFPQPEQPFCQQPQQ,0,7995.0,3975087.0,Immunological activity;Signal peptide;idpeptide
+113,FVMAPCF,1,,,
+259,DIIKLTVYDCIRRRRRRRRR,1,,,
+650,FFRMVISNPAATHQD,0,3650.0,158379.0,Diabetic;Homeostasis;Metabolic;Regulatory;Therapeutic;idpeptide
+77,PEPE,0,1648.0,174704.0,Antimicrobial;Therapeutic;idpeptide
+506,RKNVY,1,,,
+708,MAFLKKSLFLVLFLGIVSLSIC,0,4049.0,171452.0,Signal peptide;idpeptide
+22,FESTGNYI,0,7541.0,214771.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+320,SRIVPA,1,,,
+697,GGRKQGQHQQEE,1,,,
+167,TSSIEFARLQF,0,11680.0,219840.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+538,NAKPP,0,6011.0,206069.0,Cell sensing;Sensorial;idpeptide
+810,KKRWVWIRY,1,,,
+740,LLPPFHQASSLLR,1,,,
+307,GFNSCSEACVYLPCFSKGCSCFKRQCYKN,1,,,
+638,WRWRVRVWR,1,,,
+276,LLFDPCI,1,,,

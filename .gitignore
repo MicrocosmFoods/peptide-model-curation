@@ -1,0 +1,7 @@
+.RData
+.Rhistory
+archived/
+*.Rproj
+db_data/seqs/
+.DS_Store
+.Rproj.user

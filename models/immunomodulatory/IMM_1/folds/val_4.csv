@@ -1,0 +1,70 @@
+id,sequence,Y,index,idpeptide,bioactivity
+148,SPVIRH,1,,,
+672,GCCVYPPCAVNHPDIC,0,4239.0,166986.0,Therapeutic;Toxic;idpeptide
+254,FKLILA,1,,,
+516,FMKAVCVEV,0,9399.0,220201.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+277,RWRRWKWWL,1,,,
+742,VCICQ,1,,,
+394,LRIRVIVWR,1,,,
+420,RIVPPA,1,,,
+162,RHCIRRVSMRGIIMRRCK,1,,,
+574,MKKKLATTVLALSFLTAGISTHHHSAKA,0,4298.0,250383.0,Signal peptide;idpeptide
+147,VRLIVKVRIWRR,0,6227.0,176956.0,Signal peptide;idpeptide
+226,YQQPVLGPVRGPFPIIV,1,,,
+251,IAFKTNPNSMVSHIAGK,1,,,
+184,WNINA,0,450.0,5364.0,Antihypertensive;Metabolic;Therapeutic;idpeptide
+548,IWLTALKFLGKNLGKHLAKQQLAKL,0,33.0,337.0,Anti gram(+);Anti gram(-);Antibacterial/antibiotic;Antifungal;Antimicrobial;Therapeutic;idpeptide
+549,MQFDALRDDLFEEEPD,0,6470.0,203561.0,Cell sensing;Sensorial;idpeptide
+781,VRLRIRWWVLRK,1,,,
+686,FLPYPY,0,5383.0,197035.0,Cell sensing;Neurological activity;Neuropeptide;Sensorial;idpeptide
+396,LLNP,0,746.0,6043.0,Antihypertensive;Metabolic;Therapeutic;idpeptide
+379,GRFKRFRKPFKKLFKKIS,0,2316.0,41357.0,Anti hiv;Antimicrobial;Antiviral;Therapeutic;idpeptide
+354,PLKAEIGQRLEDV,0,12467.0,222723.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+526,GLLSGTSGKKGSI,0,3747.0,138048.0,Amphibian defense;Antimicrobial;Anuro defense;Bioactive;Cell sensing;Defense;Sensorial;Therapeutic;idpeptide
+96,GYPMYPLR,1,,,
+514,LYQEPVLGPVRGPFPIIV,1,,,
+782,SCCPREFLCCL,0,4818.0,165455.0,Therapeutic;Toxic;Toxins;idpeptide
+460,FGPCI,1,,,
+302,PKYVKQHTLKLAT,0,10409.0,215576.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+1,FLPPSPWETFRTS,0,6780.0,189777.0,Amphibian defense;Anti gram(+);Anti gram(-);Antibacterial/antibiotic;Antifungal;Antimicrobial;Anuro defense;Therapeutic;idpeptide
+397,RGLSLSRFSWGAE,0,11217.0,218212.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+25,ML,0,865.0,158648.0,Bioactive;Diabetic;Enzymatic;Enzyme inhibitor;Homeostasis;Metabolic;Regulatory;Therapeutic;idpeptide
+5,RKEVY,1,,,
+639,TLVEVTLGEV,0,12112.0,221420.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+480,EMFTILEEYFMYRRRRRRRRRR,1,,,
+617,GFKQFVHSLGKFGKAFVGEMIKPK,0,4903.0,189899.0,Antimicrobial;Therapeutic;idpeptide
+591,VSIIKPARVPSLL,1,,,
+643,LLRREVYDF,0,8262.0,217812.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+185,VQLRAIRVRVIR,1,,,
+308,FLFGCILN,1,,,
+773,SGAF,0,1419.0,160845.0,Antioxidant;Bioactive;Cell sensing;Sensorial;Therapeutic;idpeptide
+282,FAPGNYPRL,0,9074.0,219761.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+843,RKPKV,1,,,
+270,FRRWWKWFK,1,,,
+415,GIPCGESCVFIPCTITALLGCSCKDKVCYKN,1,,,
+371,VDTADLGAVQNRFNSAIT,1,,,
+28,MPACGSS,1,,,
+644,CSLAPANTC,0,2069.0,42270.0,Antimicrobial;Antiviral;Therapeutic;idpeptide
+235,RKIKRYLRRMW,0,6001.0,176380.0,Antimicrobial;Therapeutic;idpeptide
+237,SHSMRYFYTAVSRP,0,9580.0,213476.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+350,EMFTILEEYFMYRGLLGLRIKRRRRRRRRR,1,,,
+142,RRWCFRVCYKGFCYRKCRG,0,3730.0,158915.0,Bioactive;Cell sensing;Sensorial;Therapeutic;idpeptide
+311,CNAGESTKNC,0,13827.0,249167.0,Drug delivery vehicle;Therapeutic;idpeptide
+71,LVK,0,1863.0,194900.0,Cell sensing;Enzymatic;Enzyme inhibitor;Sensorial;idpeptide
+29,SRIVP,1,,,
+837,VIWIRWR,1,,,
+448,YKPR,1,,,
+241,IQKVIQKLLNRLQKILQK,0,4974.0,174700.0,Antimicrobial;Therapeutic;idpeptide
+63,TKPR,1,,,
+801,IEKPP,0,379.0,5219.0,Antihypertensive;Enzymatic;Enzyme inhibitor;Metabolic;Therapeutic;idpeptide
+222,YRDSRNPLWKGPSKLLWKGEGAVVI,0,3774.0,221265.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+859,GRKSSK,1,,,
+720,CAYQAEPNTCATA,0,4195.0,158277.0,Diabetic;Homeostasis;Metabolic;Regulatory;Therapeutic;idpeptide
+10,VQNRFNSAITNLGNT,1,,,
+730,NFDQMDAGGMGGFS,0,8181.0,205077.0,Neurological activity;Neuropeptide;Therapeutic;idpeptide
+161,WQLNLAWGFF,0,4267.0,158744.0,Diabetic;Enzymatic;Enzyme inhibitor;Homeostasis;Metabolic;Regulatory;Therapeutic;idpeptide
+213,KKQVSRVKVWRK,1,,,
+27,WIRVIRW,1,,,
+513,KPCCER,1,,,
+512,EIPKT,1,,,
+561,DSDPR,1,,,

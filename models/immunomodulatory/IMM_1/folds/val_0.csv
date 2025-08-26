@@ -1,0 +1,71 @@
+id,sequence,Y,index,idpeptide,bioactivity
+196,IPQ,0,507.0,5442.0,Antihypertensive;Metabolic;Therapeutic;idpeptide
+756,FLFGPCILNRLME,1,,,
+710,YYDPSKDL,0,7063.0,213699.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+345,IRIKIR,0,1053.0,20042.0,Antibacterial/antibiotic;Antibiofilm;Antimicrobial;Therapeutic;idpeptide
+731,VTPALR,0,173.0,4683.0,Antihypertensive;Enzymatic;Enzyme inhibitor;Metabolic;Therapeutic;idpeptide
+181,VP,0,585.0,5637.0,Antihypertensive;Bioactive;Diabetic;Eating behavior;Homeostasis;Metabolic;Regulatory;Taste & saliva;Therapeutic;idpeptide
+299,PSVPGS,1,,,
+762,KRWWKWIRW,1,,,
+31,SELPGLKHPCVPGS,1,,,
+363,FLSAIVAMLGKLF,0,5676.0,175260.0,Amphibian defense;Anti gram(+);Anti gram(-);Antibacterial/antibiotic;Antifungal;Antimicrobial;Anuro defense;Therapeutic;idpeptide
+640,HYRIKPTFRRLKWKYKGKFA,1,,,
+603,IRWWW,0,3838.0,160968.0,Antioxidant;Bioactive;Cell sensing;Sensorial;Therapeutic;idpeptide
+189,KYSFKLILAEY,1,,,
+358,KQCVKVAMRGMALRRCK,1,,,
+570,TEDELQDKIHP,0,468.0,4861.0,Antihypertensive;Metabolic;Therapeutic;idpeptide
+78,APPEESFRF,0,6769.0,212767.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+351,ELPLKRGRVPVE,1,,,
+689,GGHDGDPVLTGTLFY,0,10065.0,249419.0,Drug delivery vehicle;Therapeutic;idpeptide
+465,SGKPTFIRF,0,2471.0,100192.0,Cell sensing;Neurological activity;Neuropeptide;Sensorial;idpeptide
+587,SPPITWPLL,0,8433.0,218367.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+203,ITDFQI,1,,,
+815,LLWKGEGAV,0,9794.0,220791.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+853,VKH,0,134.0,4620.0,Antihypertensive;Metabolic;Therapeutic;idpeptide
+784,LGQQQAFPPQQPYPQPQPF,0,3844.0,159929.0,Bioactive;Cell sensing;Sensorial;Therapeutic;Toxic;Toxins;idpeptide
+202,GAVQNRFNSAIT,1,,,
+361,KPRP,1,,,
+99,LYDFGV,0,11689.0,244678.0,Neurological activity;Neuropeptide;Signal peptide;idpeptide
+392,AAAAAGGGEGEG,0,7176.0,195709.0,Antioxidant;Bioactive;Cell sensing;Sensorial;Therapeutic;idpeptide
+70,PFNQLAG,1,,,
+829,KSQRTQDENPVVH,0,11403.0,218778.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+787,VQLRIRVAV,1,,,
+478,KQFRNRLRIVKK,1,,,
+500,RLARIVVIRVAR,1,,,
+553,RIVPG,1,,,
+793,DKPTL,1,,,
+404,FTILEEYFMYRGLLGLRIRRRRRRRRR,1,,,
+62,RRWR,0,1643.0,174081.0,Antimicrobial;Therapeutic;idpeptide
+107,DIVKVTVYDCIRRRRRRRRR,1,,,
+454,FFAAAFT,0,2968.0,158518.0,Diabetic;Homeostasis;Metabolic;Regulatory;Therapeutic;idpeptide
+281,RIPVA,1,,,
+545,ATSPTELPKYVLVDLKIGTGKNVQTFTLA,1,,,
+296,WEDWVRWI,0,1713.0,40741.0,Antimicrobial;Antiviral;Therapeutic;idpeptide
+494,TPYDINQMR,0,8571.0,218764.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+400,KQFRIRVRVIRK,1,,,
+800,RVIPA,1,,,
+836,KRTAIKKVSRRGMSVKARR,1,,,
+729,GPCCPG,1,,,
+347,GLLGAVWAG,1,,,
+280,VPK,0,552.0,5552.0,Antihypertensive;Bioactive;Cell sensing;Metabolic;Sensorial;Therapeutic;idpeptide
+60,RRWIVWI,1,,,
+55,GRPEAQPPPLSSEHKEPVAGDAVPGPK,0,3443.0,204677.0,Antimicrobial;Antiviral;Therapeutic;idpeptide
+317,LLFGPCIL,1,,,
+469,KQKLFAKMLMSALKKKTLVTTPLAGK,1,,,
+757,AQTQSLVYPFPGPIPK,1,,,
+824,SHHRPRLFHRRRH,0,6353.0,177430.0,Signal peptide;idpeptide
+15,PEQPQQSFPEQERK,0,14349.0,4082312.0,Immunological activity;Signal peptide;idpeptide
+715,HCAFWW,0,1864.0,41494.0,Anti hiv;Antimicrobial;Antiviral;Therapeutic;idpeptide
+649,YVIKVSARD,0,11269.0,224959.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+155,KVMRKVLGYLRNVYK,0,5401.0,177338.0,Signal peptide;idpeptide
+69,NRDLEQAYNALSGEA,0,8005.0,216306.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+332,HARIKPTARRLAWKYKGKFA,1,,,
+199,KILSVFFLA,0,8220.0,217661.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide
+391,RVPS,1,,,
+818,KIWWK,0,4402.0,175357.0,Antimicrobial;Therapeutic;idpeptide
+412,PPPYPPMIG,0,11776.0,246358.0,Anticancer;Signal peptide;Therapeutic;idpeptide
+42,VCGCR,1,,,
+601,RIKWIVRFR,1,,,
+483,TCVGGTCNTPGCSCSWPVCTRNGVPICGE,0,913.0,24322.0,Antimicrobial;Therapeutic;idpeptide
+474,ITDFQILE,1,,,
+646,LLFAPCI,1,,,

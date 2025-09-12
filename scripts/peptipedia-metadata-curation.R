@@ -63,12 +63,20 @@ fermfoodb_wide_bioactivities <- left_join(fermfoodb_peptipedia, peptipedia_df_wi
 peptipedia_df_wide <- peptipedia_df_wide %>%
   mutate(fermfoodb = peptide_id %in% fermfoodb_peptipedia$peptide_id)
 
+peptipedia_validated_wide <- peptipedia_validated_wide %>% 
+  mutate(fermfoodb = peptide_id %in% fermfoodb_peptipedia$peptide_id)
+
 peptipedia_df_wide %>% 
   group_by(fermfoodb) %>% 
   count()
 
 # write out TSVs
+
+# metadata where a bioactivity can be experimentally/db validated or predicted with the Peptipedia models
 write_tsv(peptipedia_df_wide, "db_data/cleaned_data/peptipedia/2024-11-04-peptipedia-metadata.tsv")
+
+# metadata where TRUE values restricted to non-predicted (experimental evidence or in a DB)
+write_tsv(peptipedia_validated_wide, "db_data/cleaned_data/peptipedia/2025-08-11-peptipedia-validated-metadata.tsv")
 
 peptipedia_records <- peptipedia_df_wide %>% 
   select(peptide_id, sequence)

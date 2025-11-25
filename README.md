@@ -4,7 +4,7 @@ This repository contains documentation, raw data, scripts, and generated models 
 
 ## Important Note
 
-When Peptipedia was first released and published sometime in 2024, the raw database files were not available. Files that were available to be manually downloaded from the Peptipedia database website had to be done so by individual activity or original database source. Originally Peptipedia allowed downloads of peptides with a specific activity to be downloaded in FASTA or TSV format, importantly where the TSV format contained a "predicted" column with `True` or `False` entries. This was an important distinction, as sequences with the `False` labels for prediction are those that have some sort of evidence from another curated database or experimental evidence in the literature of that bioactivity. Whereas peptides with the `True` labels for that bioactivity were predicted using models developed by Peptipedia. Including these sequences in sequence-based comparisons and especially devloping custom models below could lead to false-positives or worse data leakage and overfitting for generated models. However, because this could only be done manually at the time and we were only interested in specific bioactivities, we downloaded only a select few of these TSV files which are listed in [db_data/raw_data/peptipediadb/](db_data/raw_data/peptipediadb/), all ending in .csv. and have the structure of `id_peptide, sequence, predicted`.
+When Peptipedia was first released and published sometime in 2024, the raw database files were not available. Files that were available to be manually downloaded from the Peptipedia database website had to be done so by individual activity or original database source. Originally Peptipedia allowed downloads of peptides with a specific activity to be downloaded in FASTA or TSV format, importantly where the TSV format contained a "predicted" column with `True` or `False` entries. This was an important distinction, as sequences with the `False` labels for prediction are those that have some sort of evidence from another curated database or experimental evidence in the literature of that bioactivity. Whereas peptides with the `True` labels for that bioactivity were predicted using models developed by Peptipedia. It's important to note that even sequences with a `False` predicted label could still be technically predicted by a different tool/database, but were not done so by Peptipedia's models as part of their publication, which predicts a huge amount of sequences. Including these sequences in sequence-based comparisons and especially devloping custom models below could lead to false-positives or worse data leakage and overfitting for generated models. However, because this could only be done manually at the time and we were only interested in specific bioactivities, we downloaded only a select few of these TSV files which are listed in [db_data/raw_data/peptipediadb/](db_data/raw_data/peptipediadb/), all ending in .csv. and have the structure of `id_peptide, sequence, predicted`.
 
 However, at some point in 2025 the online Peptipedia database no longer had an option to download the TSV file for a given peptide bioactivity, and one could no longer filter sequences that were not predictions. However, the raw database file was made available by the original authors during this time and is available to download [through Google Drive](https://drive.google.com/file/d/1uvTGOdjpsPYxvx00g8KbMv5tTDKsjSAg/view?usp=drive_link). This file is the PostgreSQL dump of the Peptipedia database. The next section documents how the database was downloaded, processed, and transformed to obtain a necessary TSV file containing the "predicted" labels for all peptide sequences regardless of bioactivity.
 
@@ -43,29 +43,65 @@ You should then be able to see all the loaded datatables by entering `\dt`:
 ```
 peptides_db=# \dt
                        List of relations
- Schema |               Name               | Type  |   Owner
---------+----------------------------------+-------+-----------
- public | activity                         | table | emcdaniel
- public | gene_ontology                    | table | emcdaniel
- public | peptide                          | table | emcdaniel
- public | peptide_activity_labels          | table | emcdaniel
- public | peptide_activity_labels_with_seq | table | emcdaniel
- public | peptide_activity_not_predicted   | table | emcdaniel
- public | peptide_has_activity             | table | emcdaniel
- public | peptide_has_go                   | table | emcdaniel
- public | peptide_has_pfam                 | table | emcdaniel
- public | peptide_has_source               | table | emcdaniel
- public | pfam                             | table | emcdaniel
- public | predictive_model                 | table | emcdaniel
- public | source                           | table | emcdaniel
+ Schema |               Name               | Type  
+--------+----------------------------------+-------
+ public | activity                         | table
+ public | gene_ontology                    | table 
+ public | peptide                          | table
+ public | peptide_has_activity             | table
+ public | peptide_has_go                   | table
+ public | peptide_has_pfam                 | table
+ public | peptide_has_source               | table
+ public | pfam                             | table
+ public | predictive_model                 | table
+ public | source                           | table
 (13 rows)
 ```
 
 Now we are ready to process the data tables so it's usable for our downstream purposes of joining peptide sequences for only non-predicted activities, which is the necessary information for us to make DIAMOND-blastp comparisons to our genomic sequences of interest and create training datasets for machine learning models. 
 
-###
+### Create a new table with activity labels and sequences
+The information for the peptide activity, whether the activity is predicted, and the sequence of the peptide is contained in three different tables. The commands below create subset datatables to join that information, and then filter to just sequences where predicted = False.
 
+First join peptide activity labels to the peptide list:
+```
+CREATE TABLE peptide_activity_labels AS
+SELECT
+  peptide_has_activity.id_peptide,
+  peptide_has_activity.id_activity,
+  activity.name AS activity_name,
+  peptide_has_activity.predicted
+FROM peptide_has_activity
+JOIN activity
+  ON peptide_has_activity.id_activity = activity.id_activity;
+```
 
+Then join with the peptide sequences:
+```
+DROP TABLE IF EXISTS peptide_activity_labels_with_seq;
+
+CREATE TABLE peptide_activity_labels_with_seq AS
+SELECT
+  peptide_activity_labels.*,
+  peptide.sequence
+FROM peptide_activity_labels
+JOIN peptide
+  ON peptide.id_peptide = peptide_activity_labels.id_peptide;
+```
+
+Then filter down to only rows where the prediction column = False, and write out to a TSV file:
+```
+DROP TABLE IF EXISTS peptide_activity_not_predicted;
+
+CREATE TABLE peptide_activity_not_predicted AS
+SELECT *
+FROM peptide_activity_labels_with_seq  -- or your current table name
+WHERE predicted = false;
+
+\copy peptide_activity_not_predicted TO 'peptide_activity_not_predicted.tsv' WITH (FORMAT csv, HEADER true, DELIMITER E'\t');
+```
+
+This TSV was then used as the basis for creating a main metadata file for non-predicted (as least not by Peptipedia directly) peptide activities and a FASTA file for DIAMOND-blastp sequence comparisons. Additionally the peptide_id matches the Peptipedia record ID that can be searched through their web portal to browse what other databases the peptide was sourced from and any cited literature the peptide and that activity may have been originally sourced from as well. Following up on this information is important when assessing the validity of models and DIAMOND-Blastp sequence-based comparison hits, and you should now be able to easily find that information with the metadata parsed in this fashion.
 
 ## 2024 Metadata Curation
 

@@ -1,7 +1,11 @@
 library(tidyverse)
 library(UpSetR)
 
+#################
 # cleaning and merging Peptipedia files
+#################
+
+## First organize manually downloaded peptipedia files from the online API
 # read all individual peptidpedia CSV files into one df
 peptipedia_dir <- "db_data/raw_data/peptipediadb"
 
@@ -82,3 +86,37 @@ peptipedia_records <- peptipedia_df_wide %>%
   select(peptide_id, sequence)
 
 write_tsv(peptipedia_records, "db_data/cleaned_data/peptipedia/2024-11-04-peptipedia-records.tsv")
+
+## parse the PostgreSQL dumped and processed table of peptides with non-predicted, and non-other bioactivities
+# read in and pivot wider so each peptide record is only present in the table once to make easier for FASTA generation and future metadata joining with results
+
+peptipedia_postgresql_tsv <- read_tsv("db_data/raw_data/peptipedia_sql_dump/2025-11-25-non-predicted-bioactive-peptipedia.tsv")
+
+peptipedia_postgresql_wide <- peptipedia_postgresql_tsv %>% 
+  select(id_peptide, sequence, activity_name) %>% 
+  mutate(value = TRUE) %>% # has this activity and is non-predicted moving forward, so the T/F gets inverted so the metadata joining makes sense in the context of comparing to BLAST-p results
+  pivot_wider(
+    names_from = activity_name, 
+    values_from = value,
+    values_fill = FALSE
+  )
+
+# write out this full wide metadata table
+write_tsv(peptipedia_postgresql_wide, "db_data/cleaned_data/2025-11-25-cleaned-peptipedia-nonpredicted-metadata/2025-11-25-peptipedia-nonpredicted-all-bioactivities-records.tsv")
+
+# output the first two columns for the peptide ID and sequence to conver to a FASTA
+peptipedia_seq_records <- peptipedia_postgresql_wide %>% 
+  select(id_peptide, sequence)
+
+write_tsv(peptipedia_seq_records, "db_data/seqs/2025-11-25-non-predicted-records/2025-11-25-non-predicted-sequence-records.tsv")
+
+# select bioactivities of interest 
+peptipedia_metadata_filtered <- peptipedia_postgresql_wide %>% 
+  select(id_peptide, sequence, `Angiotensin-converting enzyme (ace) inhibitors`, `Anti fungal`, `Anti inflamatory`, `Anti oxidative`, Antibacterial, Anticancer, Antimicrobial, Antiparasitic, Antiviral, `Blood brain barrier penetrating`, Cytotoxic, Immunological, Immunomodulatory, Immunoregulator, Metabolic, Neurological, Neuropeptide, Neurotoxin, `Signal peptide`, Toxic, Bacteriocin) %>% 
+  mutate(peptide_id = id_peptide,
+         anti_inflammatory = `Anti inflamatory`) %>% 
+  select(peptide_id, sequence, everything()) %>% 
+  select(-`Anti inflamatory`, -id_peptide)
+  
+# output select bioactivities metadata
+write_tsv(peptipedia_metadata_filtered, "db_data/cleaned_data/2025-11-25-cleaned-peptipedia-nonpredicted-metadata/2025-11-25-peptipedia-nonpredicted-filtered-metadata.tsv")

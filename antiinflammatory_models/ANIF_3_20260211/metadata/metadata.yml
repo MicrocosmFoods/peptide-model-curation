@@ -1,0 +1,149 @@
+autopeptideml-version: 2.0.4
+label-field: label
+last-update: '2026-02-11 22:14:21'
+negative-sampling-metadata:
+  activities-to-exclude:
+  - Immunological
+  desired-ratio: 1.0
+  execution-time: 2.0936827659606934
+  n-jobs: 10
+  random-state: 1
+  real-ratio: 1.0
+  sample-by: mw
+  target-db: both
+original-size: 2646
+outputdir: apml_server_wd/output/2026-02-11_21:40:20/2026-02-11_21:41:09
+partitioning-metadata:
+  execution-time: 1540.6345155239105
+  hestia-version: 1.0.2
+  min-part: 0.3
+  n-jobs: 10
+  number-partitions: 2
+  random-state: 1
+  sim-args:
+    bits: 1024
+    data_type: small molecule
+    field_name: apml-smiles
+    filename: alignment
+    fingerprint: mapc
+    min_threshold: 0.2
+    radius: 4
+    save_alignment: false
+    sim_function: jaccard
+    target_df: null
+    threads: 10
+    verbose: 3
+  split-strategy: min
+  test-size: 1058
+  train-size: 4234
+pipeline-1:
+  aggregate: false
+  elements:
+  - to-smiles-1:
+      aggregate: true
+      elements:
+      - to-smiles-1a:
+          aggregate: false
+          elements:
+          - filter-smiles:
+              keep_smiles: false
+          - canonical-cleaner:
+              substitution: G
+          - sequence-to-smiles:
+              keep_smiles: false
+          name: to-smiles-1a
+      - to-smiles-1b:
+          aggregate: false
+          elements:
+          - filter-smiles:
+              keep_smiles: true
+          name: to-smiles-1b
+      name: to-smiles-1
+  - canonicalize-smiles:
+      keep_smiles: true
+  name: to-smiles
+pipeline-2:
+  aggregate: false
+  elements:
+  - to-sequences-1:
+      aggregate: true
+      elements:
+      - to-sequences-1a:
+          aggregate: false
+          elements:
+          - filter-smiles:
+              keep_smiles: false
+          name: to-sequences-1a
+      - to-sequences-1b:
+          aggregate: false
+          elements:
+          - filter-smiles:
+              keep_smiles: true
+          - smiles-to-sequence:
+              keep_smiles: true
+          name: to-sequences-1b
+      name: to-sequences-1
+  - canonical-cleaner:
+      substitution: X
+  name: to-sequences
+preprocessing-metadata-1:
+  execution-time: 13.285868644714355
+  n-jobs: 10
+preprocessing-metadata-2:
+  execution-time: 0.5211830139160156
+  n-jobs: 10
+removed-entries: 0
+reps-metadata:
+  chemberta-2-execution-time: 58.16877245903015
+  ecfp-8-1024-execution-time: 13.496222496032715
+  esm2-8m-execution-time: 10.931325912475586
+  reps:
+  - ecfp-8-1024
+  - chemberta-2
+  - esm2-8m
+sequence-field: sequence
+size: 5292
+start-time: '2026-02-11 21:41:09'
+status: evaluated
+test-metadata:
+  acc: 0.7551984877126654
+  auroc: 0.7930463388350066
+  execution-time: 2.0181853771209717
+  f1: 0.8074349442379182
+  f1_weighted: 0.7525561766822051
+  fn: 149.0
+  fp: 110.0
+  mcc: 0.4737797953185022
+  precision: 0.7846820809248555
+  recall: 0.8315467075038285
+  tn: 256.0
+  tp: 543.0
+trainer-metadata:
+  best-model:
+  - name: rf
+    representation: ecfp-8-1024
+    variables:
+      bootstrap: true
+      ccp_alpha: 4.4138194502882824e-05
+      class_weight: balanced
+      max_depth: 27
+      max_features: sqrt
+      min_samples_leaf: 2
+      min_samples_split: 4
+      n_estimators: 671
+      n_jobs: 10
+  best-run: 42
+  custom-hpspace: {}
+  execution-time: 401.30672430992126
+  hpo-run: 2
+  metric: mcc
+  models:
+  - knn
+  - rf
+  - lightgbm
+  n-folds: 5
+  n-jobs: 10
+  n-trials: 100
+  patience: 20
+  random-state: 1
+  task: class

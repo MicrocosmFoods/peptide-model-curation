@@ -1,0 +1,424 @@
+peptide_id,sequence,Y,index,idpeptide,bioactivity,id
+,GNGMNAWVAWRNRCK,0,8295.0,217378.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,1562
+13166.0,MQGYPFNPCLTEAQY,1,,,,2644
+,PWRIRIRRPRRIRIWP,0,5282.0,176689.0,Signal peptide;idpeptide,5018
+,RLLDTNRPLLPY,0,13903.0,249457.0,Drug delivery vehicle;Therapeutic;idpeptide,113
+,CVQSCSFGPLTWSCDGNTK,0,469.0,5834.0,Antibacterial/antibiotic;Antihypertensive;Antimicrobial;Enzymatic;Enzyme inhibitor;Metabolic;Therapeutic;idpeptide,4142
+11791.0,NKGAFKYIKPQSQFI,1,,,,3494
+11337.0,GGAVFGEEGLTLNLEDVQPH,1,,,,2006
+11994.0,CKTLTPLMSSKFPEL,1,,,,1867
+12729.0,DEKWELQIAINVNGV,1,,,,647
+12788.0,EDSIYPKSMLLNIFT,1,,,,4624
+,SALGRLASKVVPAVIGKVTT,0,1850.0,39719.0,Antimicrobial;Therapeutic;idpeptide,914
+,VGALAVVVWKWKWKW,0,866.0,18361.0,Anti gram(+);Antibacterial/antibiotic;Antimicrobial;Antiviral;Therapeutic;idpeptide,306
+10596.0,IINPSENGDTSTNGIKK,1,,,,3680
+12375.0,GTTYSCVGVFKNGRVEIIAN,1,,,,2461
+,HLLVSGAGDGPPLCS,0,7324.0,213040.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,2078
+11781.0,LVALGINAVAYYRGL,1,,,,853
+10153.0,NISQHQCVKKQCPQNSGCFR,1,,,,2317
+,FYTPKTRREAEDLQVGQ,0,3609.0,158186.0,Diabetic;Homeostasis;Immunological activity;Metabolic;Mhc binding and non-binding;Regulatory;Therapeutic;idpeptide,242
+11970.0,ANGKLHDKKSMGDDH,1,,,,1489
+,SVIGCWTKSIPPRPCFVK,0,1369.0,21006.0,Amphibian defense;Antimicrobial;Anuro defense;Bioactive;Cell sensing;Defense;Sensorial;Therapeutic;idpeptide,2191
+,TDVILMCFAIDSPDSLENI,0,2405.0,41768.0,Antimicrobial;Antiviral;Therapeutic;idpeptide,4889
+,VRKLDEFLETGDLRTM,0,6791.0,206818.0,Antimicrobial;Antiviral;Therapeutic;idpeptide,5035
+13143.0,LVKKGILPDLSRNRN,1,,,,173
+9849.0,AGAFHLLMAESLRIHYA,1,,,,4916
+,MFTLKKSLLILFFLGMISMSLC,0,4050.0,171453.0,Signal peptide;idpeptide,1225
+12315.0,KAVAAVQQAYLAYQQ,1,,,,1202
+12919.0,GQDMSEEETEQNPEI,1,,,,2709
+,TVATLYCVHQRIDVK,0,8878.0,221340.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,2859
+12005.0,DKLTGPFTVRYTTEG,1,,,,899
+,TVQTAAAVVFACPGA,0,8584.0,218512.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,247
+,FLSLIPHIATGIAALAKHL,0,700.0,17077.0,Amphibian defense;Antimicrobial;Anuro defense;Bioactive;Therapeutic;idpeptide,4156
+,ALGAAATLEEMMTACQGV,0,2458.0,41881.0,Anti hiv;Antibacterial/antibiotic;Antimicrobial;Antiviral;Bacteriocins;Therapeutic;idpeptide,812
+10751.0,DYLINLKAKINDC,1,,,,1315
+9773.0,DIELLKKILAGGFIQKYDSVMQ,1,,,,744
+10718.0,GRETVIEYLVSFGVW,1,,,,696
+13121.0,LLVRIQQPNYYADQY,1,,,,2755
+,LGQQQPFPPQQPYPQPQ,0,8410.0,217787.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,644
+12772.0,DTRGLPEDLQDFLAL,1,,,,3606
+9779.0,DKLKQQRDTLSTQKET,1,,,,3201
+,AKGSRAIWFMWLGARFLE,0,3437.0,152924.0,Antimicrobial;Antiviral;Therapeutic;idpeptide,3422
+11550.0,INYNLKQHETFKRRV,1,,,,1181
+,ALWKTLLKHVGKAAGKAALNAVTDMVNQ,0,2599.0,175163.0,Antimicrobial;Therapeutic;idpeptide,2616
+11242.0,DYTGKIMWTPPAIFKS,1,,,,588
+,HGLASTLTRWAHYNALIRAF,0,2372.0,54345.0,Antimicrobial;Antiviral;Therapeutic;idpeptide,1485
+10874.0,MSLLTEVETPIRNEWGCRCNDSSD,1,,,,1614
+,IDGLEVDVPGIDPNA,0,7251.0,212705.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,3671
+12473.0,MHGDTPTLHEYMLDLQPETTDL,1,,,,816
+11133.0,EQKKESKFLPFLTNIETL,1,,,,5264
+11028.0,LYVFVVYFNGHVEAV,1,,,,1300
+11466.0,DIFERIAGEASRLAH,1,,,,3389
+11348.0,KLKVESSPSRSDYINASPIIEHDP,1,,,,1678
+9839.0,EVKYTVFETALK,1,,,,516
+9980.0,IMVAFKGVWTQAFWK,1,,,,3627
+10570.0,EYKILEKMPQTTIQVDGSEKKI,1,,,,3469
+11559.0,PAYFKMNSPSLWKYN,1,,,,3539
+,VRFRIRVAVIRA,0,99.0,939.0,Anti gram(+);Anti gram(-);Antibacterial/antibiotic;Antifungal;Antimicrobial;Therapeutic;idpeptide,1010
+,DSMGALKLAKLLIDKMKCEVTKAC,0,2586.0,137983.0,Amphibian defense;Antimicrobial;Anuro defense;Bioactive;Cell sensing;Defense;Sensorial;Therapeutic;idpeptide,2882
+,GVIDAAKKVVNVLKNLFG,0,3798.0,159602.0,Bioactive;Cell sensing;Sensorial;Therapeutic;idpeptide,1587
+11903.0,IRIGCKTSSSCSNWVWQSTQD,1,,,,969
+,LDHKFDLMYAKRAFVHWY,0,9108.0,222750.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,4336
+,SNMIEGVFAKGFKKASH,0,562.0,10395.0,Anti gram(+);Anti gram(-);Antibacterial/antibiotic;Antifungal;Antimicrobial;Therapeutic;idpeptide,4462
+11442.0,LVVPRYAFAMERNAGSGIII,1,,,,175
+,DIEKKIAKMEKASSVFNV,0,7779.0,215319.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,4582
+12757.0,DNTRAFNVSIETPVL,1,,,,1905
+,GKAMSLLKHILK,0,1748.0,20965.0,Antimicrobial;Therapeutic;idpeptide,108
+,AADQDTGPELPPEGVLGAL,0,6713.0,205788.0,Antimicrobial;Antiviral;Therapeutic;idpeptide,1448
+,IRILQQLLFIHFRIGRRRRRRRR,0,2337.0,53231.0,Antimicrobial;Antiviral;Therapeutic;idpeptide,5024
+12650.0,AAKHMWPADLQYIYS,1,,,,3889
+,MRKISLNTTIITTTITPGNGAG,0,8157.0,4021457.0,Signal peptide;idpeptide,5151
+,RTALLDAAGVASLLTTAEAV,0,2944.0,157890.0,Diabetic;Homeostasis;Metabolic;Regulatory;Therapeutic;idpeptide,2991
+,MNFKYIVAVSFLIASVYA,0,4641.0,170986.0,Signal peptide;idpeptide,1784
+11696.0,DLAVELAYLGNL,1,,,,2963
+11536.0,DVLQWQTIPYTTIHN,1,,,,3416
+,MNYLVMISLALLFVTGVES,0,10558.0,251880.0,Signal peptide;idpeptide,2215
+,RVDSADESNDDGFD,0,7520.0,198771.0,Cell sensing;Hormone;Metabolic;Neurological activity;Neuropeptide;Sensorial;Therapeutic;idpeptide,3065
+11457.0,DQMWKCLIRLKPTLHGPTP,1,,,,4769
+13099.0,LESYAYSLKNQLADK,1,,,,4103
+10893.0,APEADQTTPEEKPAEPEPVA,1,,,,1003
+,QKRAAYDQYGHAAFE,0,647.0,13276.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,4088
+,LLLLKFKKLQ,0,977.0,18044.0,Antimicrobial;Therapeutic;idpeptide,3642
+11764.0,KPEPYYLIVLKKEVD,1,,,,219
+,QCCTSICSLYQLENYC,0,3601.0,158173.0,Diabetic;Homeostasis;Metabolic;Regulatory;Therapeutic;idpeptide,4063
+,MKLSLLSTFAAVIIGALALP,0,7725.0,251630.0,Signal peptide;idpeptide,367
+,GQPFPQQPEQIIPQQG,0,10911.0,4087695.0,Immunological activity;Signal peptide;idpeptide,3004
+11740.0,GVCWTVYHGAGTRTIASP,1,,,,4709
+11128.0,AVTPSVIDNILSKIENEY,1,,,,3610
+12564.0,DSGGPVVDIATKQIVGIVSW,1,,,,3463
+,EKKIAKMEKASSVFNKV,0,7754.0,215246.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,3448
+,PKYVKQNTLKLATGMR,0,8482.0,218061.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,2027
+12688.0,AQIQVVIHLDEQYIY,1,,,,4082
+,DVENLHLPLPLLQSW,0,461.0,5220.0,Antihypertensive;Metabolic;Therapeutic;idpeptide,3652
+9911.0,GLIGLIGPPGEQGEK,1,,,,657
+11530.0,DPSIHVLKMVAELTH,1,,,,4172
+,GGQTGTPRIRSRKVDEELESFQRP,0,5310.0,199721.0,Antimicrobial;Therapeutic;idpeptide,3167
+,VDKPPHLPRPRPPRRIYNR,0,4918.0,174573.0,Anti gram(-);Antibacterial/antibiotic;Antimicrobial;Therapeutic;idpeptide,5113
+,RRGWARAPAFAFGRR,0,5389.0,177307.0,Signal peptide;idpeptide,795
+,WGWADIVRGIRKVAAPVLST,0,1618.0,36889.0,Antimicrobial;Therapeutic;idpeptide,4437
+,GLFDVIKKVASVIGPLG,0,5279.0,176681.0,Signal peptide;idpeptide,291
+,LDPCCREPPCASTHIDRC,0,4220.0,166951.0,Therapeutic;Toxic;idpeptide,3342
+9941.0,GVFNYETETTSV,1,,,,1324
+12800.0,EFNNDLKQTLQTCLP,1,,,,3942
+,MAVFLQLLPLLLSRAQG,0,10290.0,250793.0,Signal peptide;idpeptide,3698
+,GLFGVLAKVAAHVVPAIAEHF,0,518.0,9887.0,Amphibian defense;Anti gram(+);Anti gram(-);Antibacterial/antibiotic;Antifungal;Antimicrobial;Antiviral;Anuro defense;Bioactive;Cell sensing;Cytolytic;Cytotoxic;Defense;Hemolytic;Quorum sensing;Sensorial;Therapeutic;Toxic;idpeptide,4695
+,DLIWRLLSRAQERFGKNRSR,0,1905.0,39873.0,Antimicrobial;Therapeutic;idpeptide,4325
+,MNYLVMISFAFLLMTGVES,0,10544.0,251855.0,Signal peptide;idpeptide,1314
+9780.0,DKVGINYWLAHKALCSEK,1,,,,3273
+12364.0,PGSVGPVGPRGPQGL,1,,,,3760
+,KNLRRISRKIIHIIKKYG,0,5667.0,188459.0,Antimicrobial;Therapeutic;idpeptide,3555
+11735.0,GKAIPLEVIKGGRHLIFC,1,,,,885
+9872.0,FQVAHLHAPTGSGKSTKV,1,,,,3655
+12022.0,EPGHLAPTGMFVAAA,1,,,,1492
+,GLFDVIKKVASKIKGL,0,952.0,18807.0,Antimicrobial;Therapeutic;idpeptide,1662
+,ANDGATGWVASKSSAY,0,7704.0,215187.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,501
+12938.0,HDEFLNEDIFLKGID,1,,,,4985
+11421.0,AWDQPIADNKTKEGR,1,,,,340
+11874.0,EKNIFTFNLNLNDILNSR,1,,,,3193
+10447.0,DAENPGGEVFNDNKKGLSRV,1,,,,5080
+10514.0,ADFKKNNNFVGIADLSTD,1,,,,806
+10101.0,LTDDIMCVKKILDKVGIN,1,,,,940
+,GQPQQPFPEQPEQIIG,0,10696.0,3991201.0,Immunological activity;Signal peptide;idpeptide,4349
+,GPAGEEGKRGARGEP,0,8298.0,217381.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,3421
+,FMVDGAANR,0,8756.0,219246.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,2922
+,RPVKVYTNGVEEQSSEGFPSEM,0,5234.0,197810.0,Hormone;Metabolic;Neurological activity;Neuropeptide;Therapeutic;idpeptide,2635
+,LEAIPASIPPEVKFNKPFVF,0,2022.0,40869.0,Anti hiv;Antimicrobial;Antiviral;Therapeutic;idpeptide,1282
+12002.0,DIDLGRNEVVNDVST,1,,,,1204
+,FLPVCLRGKISCALSPLC,0,3111.0,137842.0,Amphibian defense;Antimicrobial;Anuro defense;Bioactive;Cell sensing;Defense;Sensorial;Therapeutic;idpeptide,2405
+10038.0,KRHRKVLRDNIQGITKPAIRRLAR,1,,,,534
+11441.0,FYKNLIWLVKKGNSYPKLSK,1,,,,1746
+,QRSVSNAATRVCRTGRSRW,0,1864.0,36729.0,Anti tb;Antibacterial/antibiotic;Antimicrobial;Cytolytic;Cytotoxic;Hemolytic;Therapeutic;Toxic;idpeptide,2435
+10822.0,IELQCSGALSETGYA,1,,,,233
+,GDLLGILESRGIKAR,0,9053.0,222630.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,857
+10046.0,KYLFNWAVK,1,,,,3647
+,LLIILRRRIARKQAHAHSK,0,4441.0,169977.0,Cell-penetrating;Drug delivery vehicle;Therapeutic;idpeptide,1630
+11697.0,DNEILQIVDELSEDITKYFMKL,1,,,,4704
+,KRKKHRCRVYNNGLPTGLYAWC,0,1586.0,36764.0,Anti gram(+);Antibacterial/antibiotic;Antimicrobial;Therapeutic;idpeptide,3027
+,KCCSNPACNRYNKLC,0,4099.0,166086.0,Therapeutic;Toxic;idpeptide,162
+,MNFKYIVAVSLLIASAYA,0,4665.0,171238.0,Signal peptide;idpeptide,4829
+,FLSLIPHAISAISAIANHL,0,710.0,17094.0,Amphibian defense;Antimicrobial;Anuro defense;Bioactive;Cell sensing;Defense;Sensorial;Therapeutic;idpeptide,1607
+11327.0,PEHFLDAQGHFVKPEAFLPF,1,,,,3678
+10902.0,AVFEAALTKAITAMS,1,,,,701
+13218.0,PHTHVIPVNFTLRNQ,1,,,,2126
+13105.0,LHYLRPYIIQLKTIT,1,,,,3553
+11677.0,ALWNLHGQALFLGIVLFIFG,1,,,,4184
+,KEFKRIVKRIKKFLRKL,0,1891.0,36801.0,Anti tb;Antibacterial/antibiotic;Antimicrobial;Therapeutic;idpeptide,4750
+13185.0,NHYMKLVKKGILPDL,1,,,,2711
+,CRVHKKIAIS,0,5503.0,174744.0,Anti gram(-);Antibacterial/antibiotic;Antimicrobial;Therapeutic;idpeptide,4659
+,MKSFVLLFCLAQLWGCHS,0,10274.0,250727.0,Signal peptide;idpeptide,4991
+11322.0,AQPPRDLTEAFLAEMEKAKG,1,,,,2136
+,GRLQAFLAKMKEIAAQTL,0,518.0,9982.0,Anti gram(+);Anti gram(-);Antibacterial/antibiotic;Antifungal;Antimicrobial;Therapeutic;Toxic;idpeptide,5036
+13127.0,LNTYYSYYYFNYPTF,1,,,,4869
+,HQSDVIKLMPNITLL,0,9061.0,222684.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,410
+9928.0,GRTGRGKPGIYRFVAPGE,1,,,,1376
+11311.0,LTLLRAFTEEGAIVGEI,1,,,,2657
+12007.0,DVTITAPGDSPNTDG,1,,,,4813
+13556.0,INTEKQGTPEQMRQAIEFVK,1,,,,4231
+,VKRWKKFWRKWKKWW,0,1355.0,20902.0,Antimicrobial;Therapeutic;idpeptide,4922
+12428.0,KLTYCPVKALGEPIR,1,,,,3056
+10584.0,MPFHNIHPLTIG,1,,,,3712
+,KPLEDKILVQAGEAE,0,9554.0,224001.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,654
+11150.0,CKDDINSYECWCPFG,1,,,,2387
+,MFPMKKSLLLLFFLGIVSLSLC,0,3936.0,171337.0,Signal peptide;idpeptide,4547
+,EWKGAWCDGSPQWRE,0,9187.0,222869.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,4860
+,RAIRRAIRGAPRAIL,0,5623.0,188058.0,Antimicrobial;Therapeutic;idpeptide,3784
+,RVIRVVRGACRAIRHIPRRIR,0,4689.0,187929.0,Antimicrobial;Therapeutic;idpeptide,1753
+11445.0,CENIVEKYGAKIVSA,1,,,,5275
+,MFTMKKSLLFLFFLGTISLSFR,0,4060.0,171465.0,Signal peptide;idpeptide,15
+12748.0,DLISDKVVHALESGL,1,,,,796
+,FPFLLSLIPSAISAIKRL,0,131.0,957.0,Anti gram(+);Antibacterial/antibiotic;Antimicrobial;Therapeutic;idpeptide,4198
+,CHRCFHFRRHPVAVF,0,2882.0,54379.0,Antimicrobial;Antiviral;Immunological activity;Mhc binding and non-binding;Therapeutic;idpeptide,3263
+,MAVMAPRTLLLLLSGALALTHTWA,0,6999.0,249916.0,Signal peptide;idpeptide,455
+9916.0,GMIKSNDGPPIL,1,,,,4187
+,MTPWLGLIVLLGSWSLGDWGAEA,0,7891.0,252059.0,Signal peptide;idpeptide,2234
+11538.0,EYFKVAFKPTSPVPN,1,,,,4424
+13038.0,KFADIADECERFLGP,1,,,,3925
+,WLNALKKVFQGIHEAIKLIWNHVQ,0,1430.0,24371.0,Antimicrobial;Therapeutic;idpeptide,2611
+,WIYHTQGYFPDWQNYT,0,7512.0,214079.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,3480
+,PYFDPLQWKSSRFE,0,8817.0,208500.0,Cell-penetrating;Drug delivery vehicle;Therapeutic;idpeptide,2538
+,MTPGALLLLLLGVLGAHLAPGARG,0,7039.0,249986.0,Signal peptide;idpeptide,1484
+,YQQLPQPQQPQQSFPQQQRPF,0,8208.0,4035489.0,Immunological activity;Signal peptide;idpeptide,4268
+13219.0,PINSQLDYHVHGRTF,1,,,,2760
+,FIHHIIGWISHGVRAIHRAIA,0,4550.0,177522.0,Anti gram(-);Antibacterial/antibiotic;Antimicrobial;Signal peptide;Therapeutic;idpeptide,661
+10694.0,DTLEKISNEIKIVATPDG,1,,,,2271
+,GNNRPVYIPRPRPPHPRI,0,960.0,18860.0,Antimicrobial;Therapeutic;idpeptide,2088
+12541.0,IYLAANYGETRNATPITNKF,1,,,,2106
+,EQYLKKIKNS,0,10899.0,217202.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,3695
+,CCSQDCLVCIPCCPNGSA,0,4365.0,169198.0,Therapeutic;idpeptide,3139
+,GNVIINGDCRVCNVRA,0,6061.0,196102.0,Antimicrobial;Immunological activity;Immunomodulatory;Therapeutic;idpeptide,5019
+,MFTMKKPLLLLLFLGTVSLSLC,0,3813.0,171195.0,Signal peptide;idpeptide,2642
+,KKWGAPTITNDGVSI,0,8375.0,217672.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,2555
+11280.0,LPSKGLEHLKELIARNTWTL,1,,,,573
+11618.0,ETQLYCGQAEGGSEG,1,,,,2268
+9997.0,IVKTGERQHGIHIQGSDPGGVRTA,1,,,,2135
+,RWRRPWRRRPIRPPFYR,0,5151.0,175453.0,Antimicrobial;Therapeutic;idpeptide,2586
+18617.0,NCNFLCKVKQRLRSVSSTSHIGMAIPRPRG,1,,,,2701
+,GNNRPVYIPQPRPPHPRF,0,1002.0,19026.0,Anti gram(-);Antibacterial/antibiotic;Antimicrobial;Therapeutic;idpeptide,1988
+,TRICCGCYWNGSKDVCSQSCC,0,2399.0,60346.0,Anti tb;Antibacterial/antibiotic;Antimicrobial;Bioactive;Therapeutic;Toxins;idpeptide,195
+10461.0,ENPVVHYFKNIVTPR,1,,,,235
+,KLALKLALKAWKLALKAA,0,788.0,17850.0,Antimicrobial;Therapeutic;idpeptide,5218
+,MNKKLIALAVAAASISSVATA,0,7680.0,251530.0,Signal peptide;idpeptide,1322
+,LVNAAGSGRSQNGQTGERAI,0,5478.0,203716.0,Cell sensing;Neurological activity;Neuropeptide;Sensorial;idpeptide,298
+,ILGKLLSTAAGLLSN,0,1747.0,36155.0,Antibacterial/antibiotic;Antimicrobial;Therapeutic;idpeptide,1014
+,FIDPELQRSWEEKEGEGVLMPE,0,5635.0,206753.0,Cell sensing;Hormone;Metabolic;Sensorial;Therapeutic;idpeptide,2172
+,GTSFLSPAQKPQGRRPPR,0,6308.0,200340.0,Cell sensing;Hormone;Metabolic;Sensorial;Therapeutic;idpeptide,1361
+12044.0,FVHLGHRDNIEDDLL,1,,,,3358
+10980.0,IMDINKRKYDSLK,1,,,,988
+,YIKANSAFIG,0,10111.0,214843.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,5111
+11259.0,DDLMGSRSNFDSTLI,1,,,,5163
+,NLDEIDRTGFNAF,0,8250.0,205161.0,Cell sensing;Neurological activity;Neuropeptide;Sensorial;idpeptide,2362
+12036.0,FLGCLVKEIPPRLLY,1,,,,1212
+9835.0,ESKHGLTNTASHTRLSCD,1,,,,3653
+,ALGPAATLEEMMAAAQGV,0,2453.0,41871.0,Anti hiv;Antibacterial/antibiotic;Antimicrobial;Antiviral;Bacteriocins;Therapeutic;idpeptide,1694
+,LEKARHGSCNYVFPAHKC,0,3404.0,148651.0,Antimicrobial;Therapeutic;idpeptide,3434
+11597.0,ELLAITTVVGNQ,1,,,,3477
+,KGVSLSYRKKGVSLSYR,0,10047.0,249113.0,Anticancer;Antitumour;Drug delivery vehicle;Therapeutic;idpeptide,1410
+12269.0,FVIPDLSPKNKSYCGTQSEY,1,,,,1708
+,KKKAAFAAWAAFAAKKK,0,1795.0,36348.0,Antimicrobial;Therapeutic;idpeptide,1053
+9861.0,FKPVIIYNFLQSLRLLSDSME,1,,,,2245
+,GLRKRLRKFRNKIKFF,0,5480.0,177984.0,Signal peptide;idpeptide,2139
+,TITDQVPFSV,0,11971.0,220859.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,1144
+,ILMQYIKANSKFIGITE,0,8344.0,217566.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,5223
+,RWKIAKKIEKVGRNVRDGIIKA,0,4287.0,175247.0,Antimicrobial;Therapeutic;idpeptide,3757
+10684.0,AVDDTLITLETDKATMDV,1,,,,943
+,LGQQQAFPPQQPYPQPQPF,0,3844.0,159929.0,Bioactive;Cell sensing;Sensorial;Therapeutic;Toxic;Toxins;idpeptide,906
+,VATSEQFNKTFIELVIVVD,0,3024.0,99590.0,Therapeutic;Toxic;idpeptide,131
+12830.0,ESNESVLAKKIINNQ,1,,,,4425
+12852.0,FKSLDIVINNAGILN,1,,,,4747
+10715.0,EENVEHDAEENVEHDA,1,,,,3871
+12290.0,AEIVMAIDSVHRLGYVHRDI,1,,,,1275
+,MKTFPILALLAIVATTATTA,0,7379.0,250802.0,Signal peptide;idpeptide,1593
+10814.0,PCIPYVRGGGAVPPAC,1,,,,1608
+11669.0,KHKLKHLLVETSVDKKAMES,1,,,,2638
+10763.0,EQQSDLEQERLAKEKLQ,1,,,,3330
+11637.0,MQDPEALPTEQTATD,1,,,,4431
+,SSMTKILEPFRKQNP,0,2648.0,42729.0,Anti hiv;Antimicrobial;Antiviral;Therapeutic;idpeptide,3488
+,YVIPHVHAF,0,7307.0,214187.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,3165
+12422.0,IVVALDALPELQNFL,1,,,,1837
+,MKFSSIILLTLLICSMSIFGNC,0,7547.0,251186.0,Signal peptide;idpeptide,983
+12679.0,ALLVLVVGVLSQKDP,1,,,,5245
+,VNWKKVLPKIIKVAK,0,1213.0,20164.0,Anti gram(+);Anti gram(-);Antibacterial/antibiotic;Antimicrobial;Therapeutic;idpeptide,4743
+,YGYTGA,0,3519.0,160325.0,Bioactive;Cell sensing;Sensorial;Therapeutic;idpeptide,1595
+9767.0,DERGTPEYNIALGQR,1,,,,3962
+,KRIRPRPPRLPRPRPR,0,4993.0,174797.0,Anti gram(-);Antibacterial/antibiotic;Antimicrobial;Therapeutic;idpeptide,566
+9947.0,HEYEPLPEDVKKTSE,1,,,,1721
+,ESRLPKILLDFLFLRKK,0,10017.0,248531.0,Cell sensing;Cell-cell communication;Quorum sensing;Sensorial;Signal peptide;Therapeutic;idpeptide,4817
+11300.0,DVFVIREPFISCSHLE,1,,,,1887
+12935.0,GYVALTIKHVTTHDI,1,,,,2558
+,FDRSTKVIDFHYPNE,0,3582.0,158046.0,Diabetic;Homeostasis;Metabolic;Regulatory;Therapeutic;idpeptide,2087
+9846.0,FAEDVGSNKGAIIGL,1,,,,4911
+,GLLRPPRCGEAYSMWT,0,3133.0,138020.0,Amphibian defense;Antimicrobial;Anuro defense;Bioactive;Cell sensing;Defense;Sensorial;Therapeutic;idpeptide,4594
+,ILPWKWPWWPWRRG,0,4459.0,159657.0,Bioactive;Cell sensing;Sensorial;Therapeutic;idpeptide,4065
+,KWKKLLKKLLPLLKKLLK,0,1084.0,19521.0,Antimicrobial;Cytolytic;Cytotoxic;Hemolytic;Therapeutic;Toxic;idpeptide,1168
+,NGRCCHPACAKYFSC,0,4089.0,165996.0,Therapeutic;Toxic;idpeptide,2871
+,CKLKKCLLLLLKKLKK,0,4715.0,173827.0,Antibacterial/antibiotic;Antimicrobial;Therapeutic;idpeptide,815
+,SGGDVTWTLDSPELQEA,0,6451.0,203309.0,Cell sensing;Sensorial;idpeptide,1045
+,GAGSLQPLALEGSLQKRG,0,3615.0,158196.0,Diabetic;Homeostasis;Immunological activity;Metabolic;Mhc binding and non-binding;Regulatory;Therapeutic;idpeptide,1701
+,NFDEIDRTGFSGFN,0,8248.0,205159.0,Cell sensing;Neurological activity;Neuropeptide;Sensorial;idpeptide,2587
+,ILGPVLGLVSGTLDDVLGIL,0,2673.0,138302.0,Antimicrobial;Therapeutic;idpeptide,2913
+11713.0,EPLDVPDEPEDDQPRPRGDN,1,,,,5087
+,NRDLEQAYNEVSGEA,0,8024.0,216325.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,3761
+12334.0,LSPFPAYPIVVGGQIYRFGYKHEL,1,,,,2022
+,KCRRRKVHGPMIRIRKKNL,0,1883.0,36766.0,Anti gram(-);Antibacterial/antibiotic;Antimicrobial;Therapeutic;idpeptide,4809
+,LCLLFFLGTISLSLC,0,3905.0,161946.0,Antimicrobial;Therapeutic;idpeptide,601
+,SSGVENPGGYSLTKWY,0,8912.0,222164.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,1569
+,MIIKALAIVSLCLASIQA,0,10193.0,250359.0,Signal peptide;idpeptide,2409
+12037.0,FLTGPLNFTGPCKGD,1,,,,3064
+,NPELYQMNHFRWGQPPTHFKQ,0,6780.0,241232.0,Neurological activity;Neuropeptide;Signal peptide;idpeptide,1385
+10499.0,ENIQRFLPNPAGVQLEDPEF,1,,,,2797
+9809.0,EKKATEAKQKVDAEE,1,,,,107
+,MWVLMSWLAFAAGLVAG,0,10324.0,250885.0,Signal peptide;idpeptide,334
+11675.0,AKPRKISVDRGNNGHQTINK,1,,,,4618
+,DGSADYGILQINSR,0,12749.0,223539.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,2446
+,LKKLLKLLKKLLKAAG,0,5357.0,177128.0,Signal peptide;idpeptide,3875
+,QQPPFSEQQQEPLPQ,0,10893.0,4081327.0,Immunological activity;Signal peptide;idpeptide,4863
+,SARHHCRSKAKRSRHH,0,4461.0,170054.0,Cell-penetrating;Drug delivery vehicle;Therapeutic;idpeptide,722
+,WANLMEKIQASVATNP,0,9319.0,223145.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,4378
+12947.0,HHHSTDLNVSQDRIG,1,,,,443
+,GNVIINGDCKVCNIRGD,0,6060.0,196101.0,Antimicrobial;Therapeutic;idpeptide,2210
+,SKVGRHLRRFGHRAHRKL,0,735.0,17507.0,Antimicrobial;Therapeutic;idpeptide,1641
+11240.0,KFKGKATLTSDK,1,,,,1800
+13126.0,LNPWQWTQQHDTKLR,1,,,,2227
+,WLLFEMSRHSLEQKP,0,8617.0,218671.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,222
+10492.0,ALLVLYSFALMLIIIILIIF,1,,,,3392
+12698.0,AVAFMLAYPYGYPRV,1,,,,4473
+,ENFAGGCTPGYQRTADGRCKATF,0,2439.0,82403.0,Antimicrobial;Cytokine activity;Immunological activity;Therapeutic;Toxins;idpeptide,2774
+,LNFDFQAKQLSDP,0,9736.0,213875.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,1033
+,IPFVASVAAEMMRHVYCAASKRC,0,3181.0,162750.0,Antimicrobial;Therapeutic;idpeptide,411
+,TDTDTDEDGFLAKGADVR,0,6275.0,199198.0,Antimicrobial;Coagulation or anticoagulation;Metabolic;Regulatory;Therapeutic;idpeptide,4218
+11717.0,ERVQDNIVNRISDRLISYCT,1,,,,2648
+10775.0,GDIIKKMQTLWDEIM,1,,,,4793
+,LFKGQGCPSTHVLLTHTISRI,0,8317.0,4070448.0,Immunological activity;Immunomodulatory;idpeptide,4415
+9845.0,FAAQKAKANKAVD,1,,,,3114
+,DERAAYDQYGHAAFE,0,7541.0,214379.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,4964
+,GGGFRVLHLVRP,0,7142.0,195275.0,Antimicrobial;Therapeutic;idpeptide,305
+,GMRLTYNRPCLYATKKTKEM,0,2570.0,137934.0,Amphibian defense;Antimicrobial;Anuro defense;Bioactive;Cell sensing;Defense;Sensorial;Therapeutic;idpeptide,2144
+10869.0,DLVANQPNLKALREK,1,,,,2777
+,KLLRLLKKLLRLLLK,0,259.0,3677.0,Antibacterial/antibiotic;Anticancer;Antimicrobial;Therapeutic;idpeptide,4078
+10508.0,FKGVDAQGTLSKIFKLGGR,1,,,,2512
+,VVQRACRAIRHIPRRIR,0,5603.0,187818.0,Antimicrobial;Therapeutic;idpeptide,717
+,KKAKAFAKAWAKAFKAA,0,5092.0,175287.0,Antimicrobial;Therapeutic;idpeptide,4353
+9892.0,GGAYDTYKCIPSLEAAVKQA,1,,,,2573
+10500.0,CFWYIPPSLRTLEDN,1,,,,2798
+11913.0,KVNATEPERTAMKKIQDCYV,1,,,,2226
+,TVSFWLRVPAVSSHLE,0,7791.0,215369.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,4307
+,MTETLLVQNANPDCKT,0,7379.0,213294.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,3681
+11880.0,NFPNTIISKLIEGKFQD,1,,,,1215
+,TDVILMCFSIDSPASLENI,0,2407.0,41774.0,Antimicrobial;Antiviral;Therapeutic;idpeptide,1390
+,MFPLKKSLLVLFFFGTISLPFC,0,3767.0,171149.0,Signal peptide;idpeptide,4248
+10674.0,KEAVPLEDLVLPEPVG,1,,,,4499
+,GNFLQSRPEPTAPPA,0,8294.0,217377.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,1522
+,NSELINSILGLPKVM,0,6773.0,206499.0,Antimicrobial;Hormone;Metabolic;Therapeutic;idpeptide,3917
+13582.0,NLQ,1,,,,3924
+9783.0,DNQLQNGIKRVKEFL,1,,,,4017
+13209.0,PAESYFTTTVSHATS,1,,,,3845
+12710.0,CLSWSVYKPQVPIMN,1,,,,1890
+11977.0,APQLPDDLMIRVIAQ,1,,,,790
+,SDAELRKFAHLLALQQVLD,0,6100.0,196851.0,Antibacterial/antibiotic;Antimicrobial;Therapeutic;idpeptide,4768
+,GLFDIVKKVVGAFGSL,0,415.0,4288.0,Anti gram(+);Anti gram(-);Antibacterial/antibiotic;Anticancer;Antifungal;Antimicrobial;Antitumour;Bioactive;Cancer cell;Cell sensing;Other activity;Sensorial;Therapeutic;idpeptide,965
+,GNTDGRLYWRCYFNAVSCF,0,5899.0,194002.0,Antimicrobial;Cytolytic;Cytotoxic;Hemolytic;Hormone;Metabolic;Therapeutic;Toxic;idpeptide,1293
+12761.0,DQPQILLSDKKIAAM,1,,,,2240
+,HQSLVIKLMPNITLK,0,9080.0,222703.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,3614
+,GFKDLLKGAAKALVKTVKF,0,1261.0,20427.0,Antimicrobial;Cytolytic;Cytotoxic;Hemolytic;Therapeutic;Toxic;idpeptide,4149
+12864.0,FQDGEHFGEIIFGGS,1,,,,1188
+12835.0,EVIHQVEMHQVRDLK,1,,,,506
+,SWLRDVWDWVCTILTDFK,0,2614.0,42622.0,Antimicrobial;Antiviral;Therapeutic;idpeptide,2093
+,VTGSVVCTTAAGNVNLAIGG,0,5978.0,213902.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,2659
+,YSKLRVQKSTWE,0,12627.0,223153.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,1813
+,GEDDLQDNQDLIRDKSN,0,4377.0,169399.0,Angiogenic;Anticancer;Homeostasis;Therapeutic;Vascular;idpeptide,122
+10842.0,DKTIKLWNTLAECKY,1,,,,3829
+,LIRELGQRIRRPIHRIARCAGQVV,0,4750.0,188533.0,Antimicrobial;Therapeutic;idpeptide,3509
+12249.0,EALVTHGEDTADRPPVPITQ,1,,,,3053
+,DCCGVKLEMCHPCLCDNSCKNYGK,0,2753.0,138851.0,Therapeutic;Toxic;idpeptide,679
+,GIKKWLHSAKKFGKKFVKKIMNS,0,4428.0,176661.0,Antimicrobial;Therapeutic;idpeptide,1392
+,EAQGSLANIA,0,12654.0,223184.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,3659
+12316.0,KTDDQQAEEDYARRS,1,,,,2160
+,SEFAYGSFVRTVSLPV,0,1402.0,21267.0,Anti tb;Antibacterial/antibiotic;Antimicrobial;Therapeutic;idpeptide,3512
+,KCVRQNNKRVCKGLRKRLRKFRNK,0,1672.0,37873.0,Antimicrobial;Therapeutic;idpeptide,201
+,RARYQWVRCNPDSNS,0,8513.0,218190.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,4843
+12581.0,NDAFGVMPPVARLTPEQ,1,,,,450
+11471.0,CAELCDPSNKPGHLL,1,,,,4413
+,VKRFKKFFRKLKKKV,0,4486.0,170120.0,Cell-penetrating;Drug delivery vehicle;idpeptide,1682
+10456.0,MRMATPLLMRPLSMD,1,,,,1451
+11177.0,ILSEGNSFTAPNESYKKQVTI,1,,,,79
+,DEDIFICHACPNLEDL,0,7086.0,211652.0,Anti gram(-);Antibacterial/antibiotic;Antimicrobial;Antiviral;Therapeutic;idpeptide,2810
+12397.0,DWKYVDGEFTYVPLV,1,,,,1434
+13561.0,DTEAR,1,,,,1871
+10015.0,KHIQKEDVPSERYLGYLE,1,,,,4295
+11301.0,ERRNKYLEEHPSAGKDP,1,,,,2364
+11498.0,KIEIKASIDGLEVDVPGIDPNACH,1,,,,726
+,GKPRPYSPRPTSHPKPIRV,0,1183.0,20034.0,Antimicrobial;Therapeutic;idpeptide,4209
+,FLIGMTQGLICLITRKC,0,47.0,333.0,Amphibian defense;Anti gram(+);Anti gram(-);Antibacterial/antibiotic;Anticancer;Antifungal;Antimicrobial;Anuro defense;Bioactive;Therapeutic;idpeptide,83
+,NAVAHVDDMPNALSALSDLHAHKL,0,5337.0,200835.0,Antimicrobial;Therapeutic;idpeptide,4913
+,FLSLIPHAINAVSAIAKHFG,0,487.0,9743.0,Anti gram(+);Anti gram(-);Antibacterial/antibiotic;Antimicrobial;Therapeutic;idpeptide,5141
+,VCCPFGGCHELCYCCY,0,4309.0,168098.0,Therapeutic;idpeptide,978
+11126.0,KFGADARALMLQGVDLLADA,1,,,,3445
+,YPQPQLPYPQPQPFR,0,10799.0,4036121.0,Immunological activity;Signal peptide;idpeptide,992
+,KARHGSCNYVFPAHKC,0,3393.0,148636.0,Antimicrobial;Therapeutic;idpeptide,3995
+10483.0,GIWIYLLEMLWRLGATIWQL,1,,,,1035
+,LRCSSFRRDSLLLYY,0,7847.0,215676.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,337
+,IGKFLKKAKKFGKAFVK,0,2107.0,39294.0,Antimicrobial;Therapeutic;idpeptide,3164
+10335.0,AWYYVPLGTQYTDAPSFS,1,,,,3839
+11175.0,AYSDDKSMKVTVAFNQFGPN,1,,,,3341
+,KWCFRVCYRGRCYRRCR,0,5384.0,177273.0,Signal peptide;idpeptide,3446
+12353.0,KGEAGPTGARGPEGP,1,,,,3232
+11254.0,EEQEDEIIGFGQELKNPQEE,1,,,,3903
+,RIQRGPARAFVTIGK,0,9286.0,223069.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,1469
+12941.0,HEMRTKRDHVLPACR,1,,,,990
+12785.0,EARAEFAERSVQKLQ,1,,,,3530
+9985.0,ALASPGSCLEEFRASPFLEC,1,,,,4682
+12702.0,AYLQSDEFETIVVAL,1,,,,3879
+,RGDRLDRRDLRLDRRDLRC,0,4575.0,170468.0,Cell-penetrating;Drug delivery vehicle;idpeptide,3043
+18860.0,MKPQSILVLLVLAVLALHCKENEAASFPWTCASLSGVCRQGVCLPSELYFGSLGCGKGFLCCVSHFG,1,,,,3175
+,QAVHAAQAEIN,0,12582.0,223061.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,3028
+11947.0,AAAGAEAGKATTEEQ,1,,,,2807
+12379.0,AADYLANDAEVKAAV,1,,,,893
+,EDGSDPPSGDFLTEGGGVR,0,6273.0,199194.0,Antimicrobial;Coagulation or anticoagulation;Metabolic;Regulatory;Therapeutic;idpeptide,4617
+13176.0,NDLLSVYNQVKSGAG,1,,,,4265
+12803.0,EHFDVDLDNVVNVKV,1,,,,4641
+,TYGDTWAGVEAIIRI,0,2742.0,52869.0,Anti hiv;Antimicrobial;Antiviral;Therapeutic;idpeptide,5260
+10981.0,IMILVVAAKEVWGDEQA,1,,,,3288
+12848.0,FHMYRSLLGHITDPF,1,,,,256
+13155.0,MFARYMLERYSNDMP,1,,,,441
+,MSLNVKQSRIAILFSSCLISISFFSQA,0,4258.0,250193.0,Signal peptide;idpeptide,3462
+10198.0,ASQKRPSQRSK,1,,,,2749
+,GILKTIKSIASKLKRKAK,0,1254.0,20400.0,Antimicrobial;Cytolytic;Cytotoxic;Hemolytic;Therapeutic;Toxic;idpeptide,1790
+11419.0,KLIAYPIAVEALSL,1,,,,4784
+12001.0,DGTYDITKLGAKPDG,1,,,,2323
+11548.0,IEDYHGGFKKTDKHP,1,,,,1495
+,MMSFVSLLLVGILFHATQA,0,10395.0,251223.0,Signal peptide;idpeptide,1750
+,GFADLFGKVANLIKS,0,3065.0,113051.0,Amphibian defense;Antimicrobial;Anuro defense;Bioactive;Cell sensing;Defense;Sensorial;Therapeutic;idpeptide,3171
+11326.0,LLDKAVSNVIASLTCGRRFE,1,,,,1325
+,CCGPTACLAGCKPCCY,0,4190.0,166791.0,Therapeutic;Toxic;idpeptide,5190
+,VDKHPYLPRPRPPRRIYNR,0,4898.0,174552.0,Anti gram(-);Antibacterial/antibiotic;Antimicrobial;Therapeutic;idpeptide,2379
+12722.0,DATAVVLDMTLKFEG,1,,,,3857
+10137.0,MYWVRQAPGKGLEW,1,,,,2853
+,SDPNILSGPQFLLPQSGEPERLEN,0,5736.0,208791.0,Amphibian defense;Antimicrobial;Anuro defense;Therapeutic;idpeptide,1073
+,KLLLKLLKKLLKLLKKK,0,245.0,3633.0,Anticancer;Antimicrobial;Therapeutic;idpeptide,660
+,QQPSRRKKRALDAAYCFRNV,0,6818.0,243347.0,Growth factor;Metabolic;Regulatory;Signal peptide;idpeptide,3905
+12314.0,GWAKVNGSWYYLNAN,1,,,,3933
+10963.0,GQWRGAAGTAAQAAVVRFQE,1,,,,4444
+10075.0,LLNYKQEGDKCVENPNPTCN,1,,,,4376
+11934.0,NRQLYPEWTEAQRLD,1,,,,1170
+11534.0,DTKLRIMKNHQFTNC,1,,,,285
+,KALAALLKKLAKLLAALK,0,3508.0,157632.0,Cell-penetrating;Drug delivery vehicle;Therapeutic;idpeptide,1166
+,PITHWSHGQNRWPLSCPQ,0,2534.0,42461.0,Antimicrobial;Antiviral;Therapeutic;idpeptide,2852
+,HRCRVYNNGLPTGLYRWC,0,2168.0,39968.0,Anti gram(+);Antibacterial/antibiotic;Antimicrobial;Therapeutic;idpeptide,683
+,NKALELFRKDIAALYKEGY,0,7660.0,215098.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,2893
+,IFAGIKKKAERADLIAYLKQATAK,0,6586.0,223962.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,3766
+12006.0,DSEEPLQGPFNFRFL,1,,,,5184
+,SAASAPLAETSTPLRL,0,6883.0,208416.0,Amphibian defense;Antimicrobial;Anuro defense;Neurological activity;Neuropeptide;Therapeutic;idpeptide,3303
+12495.0,AGKYNLQVRGTRGEH,1,,,,1648
+,VDDTQFVRFDSDAASPRGEPR,0,6510.0,222607.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,2956
+,IARAKMFPAVAEK,0,10376.0,215542.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,3920
+,FFQELKEGWKNIKKA,0,967.0,18891.0,Antimicrobial;Therapeutic;idpeptide,2257
+,KLLKLLLKLWKKLLKLLK,0,2075.0,39105.0,Antimicrobial;Cell-penetrating;Cytolytic;Cytotoxic;Drug delivery vehicle;Hemolytic;Therapeutic;Toxic;idpeptide,4932
+,VSIDKFRIFCKALNPK,0,9582.0,224295.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,720
+,QELSQPQLPQQQQLPQQPQQF,0,8345.0,4079067.0,Immunological activity;Signal peptide;idpeptide,5119
+,DTGPIRRPKPRPRPRPE,0,1691.0,25053.0,Antimicrobial;Therapeutic;idpeptide,3799
+12880.0,FVRTHLYPHVSEDVI,1,,,,1949
+13022.0,KAMLEDIAILTGGSV,1,,,,483
+,KYLEFISDAIIHVLIISK,0,9293.0,223079.0,Immunological activity;Mhc binding and non-binding;Signal peptide;idpeptide,1512
+11920.0,KSMVILTSTVTAGTAE,1,,,,3325
+10900.0,ASINKFVVLISATLVLSFAI,1,,,,1700
+,PVKVYTSNGVEEESAEVFPGEM,0,5247.0,197866.0,Neurological activity;Neuropeptide;Therapeutic;idpeptide,2543
